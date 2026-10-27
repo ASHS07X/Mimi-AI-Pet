@@ -1,0 +1,25 @@
+{
+  "description": "A sweet little white plush companion with bright eyes, rosy cheeks, a pink bow, and a tiny brown bowtie.",
+  "sprite_sheet": "outputs/Pets/Mimi/mimi-spritesheet.png",
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sprite_version": 2,
+  "name": "Mimi",
+  "sha256": "332f0fce48ad1e8b16386ef9d9b6b6715f948f719caac05f29a3a5697ebd0684",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "preflight": "valid"
+}

@@ -1,0 +1,10 @@
+# Local/generated scratch
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Thumbs.db
+.DS_Store
+*.zip
+work/mimi-pet-run/qa/mp4-frames/
+tooling/work-pets/0.1.6/

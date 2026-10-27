@@ -1,0 +1,116 @@
+{
+  "directions": [
+    {
+      "expected": "up",
+      "evidence": "The eye patches sit above the mouth with the lower face tipped away, matching the upward cardinal.",
+      "observed": "Face pitches upward; both white eye highlights sit high on the mask above the centered tiny mouth.",
+      "verdict": "pass",
+      "label": "000"
+    },
+    {
+      "expected": "up-right",
+      "evidence": "Both eye patches are visible; the muzzle shifts right and the viewer-right eye sits farther forward.",
+      "observed": "Mimi turns slightly toward viewer-right; both eyes remain visible and the muzzle shifts toward the right side.",
+      "verdict": "pass",
+      "label": "022.5"
+    },
+    {
+      "expected": "up-right",
+      "evidence": "The muzzle and eye line rotate right; the far eye is narrower than in the frontal up pose.",
+      "observed": "The nose-mouth area and eye pair are clearly angled toward viewer-right, with the far eye beginning to compress.",
+      "verdict": "pass",
+      "label": "045"
+    },
+    {
+      "expected": "up-right",
+      "evidence": "The near eye enlarges and the far eye compresses as the nose-mouth axis moves toward the right edge.",
+      "observed": "The right-facing turn is pronounced; the near eye is dominant and the bow and cheek move with the turn.",
+      "verdict": "pass",
+      "label": "067.5"
+    },
+    {
+      "expected": "right",
+      "evidence": "Only the near eye reads fully and the muzzle silhouette projects to viewer-right, confirming the side-on cardinal.",
+      "observed": "Clear right profile: the muzzle points viewer-right and only one full eye is visible.",
+      "verdict": "pass",
+      "label": "090"
+    },
+    {
+      "expected": "down-right",
+      "evidence": "The eye line and mouth angle lower to the right; the cheek on that side leads the turn.",
+      "observed": "Muzzle dips toward viewer-right; the eye line slopes down and the far eye is mostly hidden.",
+      "verdict": "pass",
+      "label": "112.5"
+    },
+    {
+      "expected": "down-right",
+      "evidence": "The head is pitched down-right and the visible cheek and mouth occupy the lowered right side.",
+      "observed": "Strong down-right angle: the face and mouth are lowered to viewer-right, with the near cheek prominent.",
+      "verdict": "pass",
+      "label": "135"
+    },
+    {
+      "expected": "down-right",
+      "evidence": "The face is almost side-on while tilted down-right; the mouth is low on the right contour.",
+      "observed": "Near-profile down-right: the head is lowered, one eye stays readable, and the mouth sits low on the right contour.",
+      "verdict": "pass",
+      "label": "157.5"
+    },
+    {
+      "expected": "down",
+      "evidence": "The eye patches are positioned beneath the forehead and the mouth is at the lowest point of the face.",
+      "observed": "Face points downward; both eyes and the small mouth sit low beneath the rounded forehead.",
+      "verdict": "pass",
+      "label": "180"
+    },
+    {
+      "expected": "down-left",
+      "evidence": "The eye line and mouth angle lower to the left; the left cheek leads the turn.",
+      "observed": "Muzzle dips toward viewer-left; eye line slopes down-left and the left cheek leads.",
+      "verdict": "pass",
+      "label": "202.5"
+    },
+    {
+      "expected": "down-left",
+      "evidence": "The head is pitched down-left, with the muzzle and near eye shifted toward viewer-left.",
+      "observed": "Strong down-left angle: the face is lowered toward viewer-left and the near eye is dominant.",
+      "verdict": "pass",
+      "label": "225"
+    },
+    {
+      "expected": "down-left",
+      "evidence": "The face is almost side-on while tilted down-left; the muzzle reaches the left contour.",
+      "observed": "Near-profile down-left: the lowered muzzle sits toward the left contour and the far eye is compressed.",
+      "verdict": "pass",
+      "label": "247.5"
+    },
+    {
+      "expected": "left",
+      "evidence": "The muzzle points left and the near eye remains by the left contour; the far eye is strongly foreshortened.",
+      "observed": "Clear left profile: the muzzle points viewer-left and the visible eye cluster hugs the left side of the mask.",
+      "verdict": "pass",
+      "label": "270"
+    },
+    {
+      "expected": "up-left",
+      "evidence": "The eye pair and mouth climb toward viewer-left from the left-facing pose.",
+      "observed": "The face lifts toward viewer-left; mouth and visible eye turn back upward from the left profile.",
+      "verdict": "pass",
+      "label": "292.5"
+    },
+    {
+      "expected": "up-left",
+      "evidence": "The eyes and mouth angle up-left; the bow stays fixed on the same upper-right side of the head.",
+      "observed": "Pronounced up-left turn: the eye pair and muzzle rise toward viewer-left while the bow remains attached at upper right.",
+      "verdict": "pass",
+      "label": "315"
+    },
+    {
+      "expected": "up-left",
+      "evidence": "The face returns toward the front while remaining pitched up; both eyes reappear and the mouth rises.",
+      "observed": "Near-up-left pose: both eyes and the mouth return toward the front as the face pitches upward.",
+      "verdict": "pass",
+      "label": "337.5"
+    }
+  ]
+}

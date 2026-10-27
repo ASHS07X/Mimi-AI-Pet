@@ -1,0 +1,3 @@
+Running row QA: PASS.
+
+`decoded/running.png` contains a six-frame horizontal strip. Bundled extraction produced six 192x208 frames with stable near-identical bounds and no edge pixels; `inspect_frames.py --require-components` returned ok=true with no errors or warnings. Visual review confirms Mimi's white plush identity, attached bow and bowtie, brown ears, glossy eyes, blush, and small pink mouth remain consistent. The eye gaze scans across the loop and paws alternate in small taps against the body; feet remain planted. The pose reads as calm active processing rather than literal running. No text, props, hearts, or detached effects.
